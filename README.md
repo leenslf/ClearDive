@@ -1,5 +1,5 @@
 # ClearDive
-ClearDive is a research project that explores a two-stage pipeline for enhancing underwater images.Stage 1 sharpens images using AOD-Net, while Stage 2 corrects colors with FUnIE-GAN and WaterGAN.We're also preparing to integrate event camera data for edge-aware sharpening in future iterations.
+ClearDive is a research project that explores a two-stage pipeline for enhancing underwater images. Stage 1 sharpens images using [AOD-Net](https://github.com/leenslf/AOD-Net-colab), while Stage 2 corrects colors with FUnIE-GAN and WaterGAN.We're also preparing to integrate event camera data for edge-aware sharpening in future iterations.
 
 ## 📌 Project Goals
 
