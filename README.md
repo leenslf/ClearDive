@@ -17,7 +17,7 @@ Explore RGB + event data fusion for improved edge reconstruction.
 
 **Sharpening**: AOD-Net (pretrained)
 
-**Color Correction**: FUnIE-GAN and WaterGAN
+**Color Correction**: FUnIE-GAN and UIEC^2-Net
 
 **Evaluation**: PSNR, SSIM, UIQM, UCIQE
 
