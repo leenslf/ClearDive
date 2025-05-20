@@ -1,0 +1,3 @@
+[submodule "AOD-Net-colab"]
+	path = AOD-Net-colab
+	url = git@github.com:leenslf/AOD-Net-colab.git
