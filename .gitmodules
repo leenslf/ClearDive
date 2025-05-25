@@ -1,6 +1,6 @@
 [submodule "AOD-Net-colab"]
 	path = AOD-Net-colab
 	url = git@github.com:leenslf/AOD-Net-colab.git
-[submodule "external/davis-deblur"]
-	path = external/davis-deblur
+[submodule "davis-underwater-deblur"]
+	path = davis-underwater-deblur
 	url = git@github.com:leenslf/davis-underwater-deblur.git
