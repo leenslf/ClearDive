@@ -25,12 +25,12 @@ ClearDive is a modular research project exploring underwater image enhancement u
 - `FUnIE-GAN/` – GAN-based color enhancement model.
 - `UIEC2Net/` – CNN enhancement using dual color space features.
 - `davis-underwater-deblur/` – Scripts and methods for event-RGB fusion.
+- `todo.md` – Remaining tasks, work-in-progress notes.
 
 ## 📚 Datasets Used
 
 - **UIEB** – 950 real-world underwater images, 890 with references.
 - **EUVP** – 11k paired/unpaired underwater images from varied sources.
 - **DAVIS-NUIUIED** – Synchronized underwater RGB and event streams.
-
 
 
